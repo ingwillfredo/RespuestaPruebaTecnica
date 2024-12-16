@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Pruebas\\ApiBackPruebaTec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|c:\\pruebas\\apibackpruebatec\\apibackpruebatec\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|solutionrelative:apibackpruebatec\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|c:\\pruebas\\apibackpruebatec\\apibackpruebatec\\entities\\models\\dtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|solutionrelative:apibackpruebatec\\entities\\models\\dtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|c:\\pruebas\\apibackpruebatec\\apibackpruebatec\\entities\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|solutionrelative:apibackpruebatec\\entities\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|c:\\pruebas\\apibackpruebatec\\apibackpruebatec\\entities\\models\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|solutionrelative:apibackpruebatec\\entities\\models\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|c:\\pruebas\\apibackpruebatec\\apibackpruebatec\\entities\\custom\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|solutionrelative:apibackpruebatec\\entities\\custom\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|c:\\pruebas\\apibackpruebatec\\apibackpruebatec\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|solutionrelative:apibackpruebatec\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|c:\\pruebas\\apibackpruebatec\\apibackpruebatec\\entities\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|solutionrelative:apibackpruebatec\\entities\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|c:\\pruebas\\apibackpruebatec\\apibackpruebatec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|solutionrelative:apibackpruebatec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|c:\\pruebas\\apibackpruebatec\\apibackpruebatec\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|solutionrelative:apibackpruebatec\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\DbpruebaTecContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiBackPruebaTec\\Entities\\Models\\DbpruebaTecContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|c:\\pruebas\\apibackpruebatec\\apibackpruebatec\\entities\\models\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|solutionrelative:apibackpruebatec\\entities\\models\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|c:\\pruebas\\apibackpruebatec\\apibackpruebatec\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DB17D7C-11CA-4709-84C6-DB6F6F7540F9}|ApiBackPruebaTec\\ApiBackPruebaTec.csproj|solutionrelative:apibackpruebatec\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 237,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateTaskDTO.cs",
+              "DocumentMoniker": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\DTOs\\UpdateTaskDTO.cs",
+              "RelativeDocumentMoniker": "ApiBackPruebaTec\\Entities\\Models\\DTOs\\UpdateTaskDTO.cs",
+              "ToolTip": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\DTOs\\UpdateTaskDTO.cs",
+              "RelativeToolTip": "ApiBackPruebaTec\\Entities\\Models\\DTOs\\UpdateTaskDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:30:38.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "ApiBackPruebaTec\\Entities\\Models\\Task.cs",
+              "ToolTip": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\Task.cs",
+              "RelativeToolTip": "ApiBackPruebaTec\\Entities\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:06:12.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\DTOs\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "ApiBackPruebaTec\\Entities\\Models\\DTOs\\TaskDTO.cs",
+              "ToolTip": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\DTOs\\TaskDTO.cs",
+              "RelativeToolTip": "ApiBackPruebaTec\\Entities\\Models\\DTOs\\TaskDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:06:07.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ApiBackPruebaTec\\Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "ApiBackPruebaTec\\Entities\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:38:18.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "ApiBackPruebaTec\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "ApiBackPruebaTec\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:08:42.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "ApiBackPruebaTec\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "ApiBackPruebaTec\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:58:51.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\DTOs\\User.cs",
+              "RelativeDocumentMoniker": "ApiBackPruebaTec\\Entities\\Models\\DTOs\\User.cs",
+              "ToolTip": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\DTOs\\User.cs",
+              "RelativeToolTip": "ApiBackPruebaTec\\Entities\\Models\\DTOs\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:57:37.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ApiBackPruebaTec\\Entities\\Models\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "ApiBackPruebaTec\\Entities\\Models\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:56:43.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Program.cs",
+              "RelativeDocumentMoniker": "ApiBackPruebaTec\\Program.cs",
+              "ToolTip": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Program.cs",
+              "RelativeToolTip": "ApiBackPruebaTec\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:46:19.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Custom\\Utilities.cs",
+              "RelativeDocumentMoniker": "ApiBackPruebaTec\\Entities\\Custom\\Utilities.cs",
+              "ToolTip": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Custom\\Utilities.cs",
+              "RelativeToolTip": "ApiBackPruebaTec\\Entities\\Custom\\Utilities.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:43:30.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiBackPruebaTec\\appsettings.json",
+              "ToolTip": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\appsettings.json",
+              "RelativeToolTip": "ApiBackPruebaTec\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T16:39:10.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbpruebaTecContext.cs",
+              "DocumentMoniker": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\DbpruebaTecContext.cs",
+              "RelativeDocumentMoniker": "ApiBackPruebaTec\\Entities\\Models\\DbpruebaTecContext.cs",
+              "ToolTip": "C:\\Pruebas\\ApiBackPruebaTec\\ApiBackPruebaTec\\Entities\\Models\\DbpruebaTecContext.cs",
+              "RelativeToolTip": "ApiBackPruebaTec\\Entities\\Models\\DbpruebaTecContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:38:09.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

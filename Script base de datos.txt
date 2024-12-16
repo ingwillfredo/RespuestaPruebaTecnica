@@ -1,0 +1,27 @@
+Create Database DBPruebaTec
+
+Use DBPruebaTec
+
+Create Table Users(
+IdUsuario int primary key identity,
+Nombre varchar(75),
+Correo varchar(75),
+Contrasena Varchar(150))
+
+Create Table Tasks(
+Id int primary key identity,
+Title varchar(75),
+Description  varchar(150),
+Status varchar(20),
+CreatedAt Datetime)
+
+Insert Into Tasks
+Values
+('Desarrollo Pruebas Unitarias', 'Pending', GETDATE()),
+('Creacion Front', 'Pending', GETDATE())
+
+
+
+
+
+

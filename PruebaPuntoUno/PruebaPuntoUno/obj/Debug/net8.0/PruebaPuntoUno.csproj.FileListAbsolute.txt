@@ -1,0 +1,14 @@
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\bin\Debug\net8.0\PruebaPuntoUno.exe
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\bin\Debug\net8.0\PruebaPuntoUno.deps.json
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\bin\Debug\net8.0\PruebaPuntoUno.runtimeconfig.json
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\bin\Debug\net8.0\PruebaPuntoUno.dll
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\bin\Debug\net8.0\PruebaPuntoUno.pdb
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\obj\Debug\net8.0\PruebaPuntoUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\obj\Debug\net8.0\PruebaPuntoUno.AssemblyInfoInputs.cache
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\obj\Debug\net8.0\PruebaPuntoUno.AssemblyInfo.cs
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\obj\Debug\net8.0\PruebaPuntoUno.csproj.CoreCompileInputs.cache
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\obj\Debug\net8.0\PruebaPuntoUno.dll
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\obj\Debug\net8.0\refint\PruebaPuntoUno.dll
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\obj\Debug\net8.0\PruebaPuntoUno.pdb
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\obj\Debug\net8.0\PruebaPuntoUno.genruntimeconfig.cache
+C:\Pruebas\PruebaPuntoUno\PruebaPuntoUno\obj\Debug\net8.0\ref\PruebaPuntoUno.dll
